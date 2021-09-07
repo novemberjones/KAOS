@@ -13,6 +13,6 @@ based on the [Heterodyne Peyote Space Explorer](http://beavisaudio.com/projects/
 
 see [circuit](circuit) for design.  
 
-_need to figure out haw mony cut-up switches to use and where_  
+_need to figure out how many cut-up switches to use and where_  
 
 _possibly add a LM741 amplifier and a distortion circuit_  
