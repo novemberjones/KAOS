@@ -8,8 +8,8 @@ based on:
 
 
 * the 40106 provides control oscilators for the 4040. the 4051 generates custom waveforms with the 4040 as its controller
-~~* the other 4 oscilators on the 40106 are audio LFOs~~
-~~* 2 2N3904s doing the loose connection electron cascade thing(?) to produce white noise~~
+* ~~the other 4 oscilators on the 40106 are audio LFOs~~
+* ~~2 2N3904s doing the loose connection electron cascade thing(?) to produce white noise~~
 
 _see below_
 
@@ -24,10 +24,10 @@ _see below_
 ~~based on the [Heterodyne Peyote Space Explorer](http://beavisaudio.com/projects/cmossynthesizers)~~  
 
 ~~**TO CONSIDER:**~~
-~~- [ ] how many cut-up buttons and where? (everything? each type of everything?)~~
-~~- [ ] mixing: volume for everything vs. combining some volume controls~~
-~~- [ ] voltage starving JUST FOR THE HEX INVERTER~~
-~~- [ ] should the custom waveforms have: switches? dials? **both?**~~
+- [ ] ~~how many cut-up buttons and where? (everything? each type of everything?)~~
+- [ ] ~~mixing: volume for everything vs. combining some volume controls~~
+- [ ] ~~voltage starving JUST FOR THE HEX INVERTER~~
+- [ ] ~~should the custom waveforms have: switches? dials? **both?**~~
 
 ~~see [circuit](circuit) for design.~~  
 
