@@ -17,18 +17,38 @@ I will need to breadboard prototype this because it's already complicated and wi
 
 ![kaos](kaos.jpg)
 
-**PROVISIONAL DESIGN**  
+~~**PROVISIONAL DESIGN**~~  
 
-based on the [Heterodyne Peyote Space Explorer](http://beavisaudio.com/projects/cmossynthesizers)  
+~~based on the [Heterodyne Peyote Space Explorer](http://beavisaudio.com/projects/cmossynthesizers)~~  
 
-**TO CONSIDER:**
-- [ ] how many cut-up buttons and where? (everything? each type of everything?)
-- [ ] mixing: volume for everything vs. combining some volume controls
-- [ ] voltage starving JUST FOR THE HEX INVERTER
-- [ ] should the custom waveforms have: switches? dials? **both?**
+~~**TO CONSIDER:**~~
+~~- [ ] how many cut-up buttons and where? (everything? each type of everything?)~~
+~~- [ ] mixing: volume for everything vs. combining some volume controls~~
+~~- [ ] voltage starving JUST FOR THE HEX INVERTER~~
+~~- [ ] should the custom waveforms have: switches? dials? **both?**~~
 
-see [circuit](circuit) for design.  
+~~see [circuit](circuit) for design.~~  
 
-_need to figure out how many cut-up switches to use and where_  
+~~_need to figure out how many cut-up switches to use and where_~~  
 
-_possibly add a LM741 amplifier and a distortion circuit_  
+~~_possibly add a LM741 amplifier and a distortion circuit_~~  
+
+---
+
+**okay screw all of that. not redrawing the circuit yet until i can prototype it but i'm now thinking... two(?) waveform generators with switches AND dials, frequency for each 4040 from a hex inverter. starvation on the hex inverter, two power fuckers, two schmitt triggers unused. two volumes on each waveform, master volume, on/off, audio on/off, momentary audio cutoff. on/off and cutoff for each waveform. audio pulse on for all of it (i.e. the opposite of a cutoff, xandra suggested one button that changes function if the main switch is on or off but i think that would need an IC so two buttons is probably easier and cleaner sound-wise). OPTIONAL large cap on the power line (like the HEXARCH but you can turn it off entirely). on/off for each power fucker.**  
+
+so that is:
+
+* 2 frequency dials
+* 8x waveform dials + 8x waveform switches x2 (16 for each waveform 32 in total)
+* 2 waveform volume controls + master volume
+* 2 power fucker dials + 1 power fuckers on/off switch
+* audio on/off, audio cutoff, audio pulse on
+* 2x waveform on/off (maybe a three-way switch: WAVE1-BOTH-WAVE2?)
+* 2x cutoff for waveform
+* 2x pulse on for waveform (maybe would only need one button)
+* starvation for hex inverter
+
+which is a total of... over 40 things.  
+
+_might need to rethink this..._
