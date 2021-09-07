@@ -8,12 +8,14 @@ based on:
 
 
 * the 40106 provides control oscilators for the 4040. the 4051 generates custom waveforms with the 4040 as its controller
-* the other 4 oscilators on the 40106 are audio LFOs
-* 2 2N3904s doing the loose connection electron cascade thing(?) to produce white noise
+~~* the other 4 oscilators on the 40106 are audio LFOs~~
+~~* 2 2N3904s doing the loose connection electron cascade thing(?) to produce white noise~~
 
-everything is summed together with individual volume controls and a master volume control.  
+_see below_
 
-I will need to breadboard prototype this because it's already complicated and will probably get more complicated.
+~~everything is summed together with individual volume controls and a master volume control.~~  
+
+~~I will need to breadboard prototype this because it's already complicated and will probably get more complicated.~~
 
 ![kaos](kaos.jpg)
 
