@@ -11,4 +11,8 @@ based on the [Heterodyne Peyote Space Explorer](http://beavisaudio.com/projects/
 - [ ] mixing: volume for everything vs. combining some volume controls
 - [ ] voltage starving JUST FOR THE HEX INVERTER
 
-see [circuit](circuit) for design
+see [circuit](circuit) for design.  
+
+_need to figure out haw mony cut-up switches to use and where_  
+
+_possibly add a LM741 amplifier and a distortion circuit_  
