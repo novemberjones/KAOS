@@ -18,17 +18,17 @@ _see below_
 
 ![kaos](kaos.jpg)
 
-~~**PROVISIONAL DESIGN**~~  
+## ~~**PROVISIONAL DESIGN**~~  
 
 ~~based on the [Heterodyne Peyote Space Explorer](http://beavisaudio.com/projects/cmossynthesizers)~~  
 
-~~**TO CONSIDER:**~~
+### ~~**TO CONSIDER:**~~
 - [ ] ~~how many cut-up buttons and where? (everything? each type of everything?)~~
 - [ ] ~~mixing: volume for everything vs. combining some volume controls~~
 - [ ] ~~voltage starving JUST FOR THE HEX INVERTER~~
 - [ ] ~~should the custom waveforms have: switches? dials? **both?**~~
 
-~~see [circuit](circuit) for design.~~  
+### ~~see [circuit](circuit) for design.~~  
 
 ~~_need to figure out how many cut-up switches to use and where_~~  
 
