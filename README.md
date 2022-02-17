@@ -52,7 +52,9 @@ which is a total of... over 40 things.
 
 _might need to rethink this..._
 
-### MAYBE
+---
+
+### MAYBE (feb 2022)
 
 ***18 easy spaces in the same casing as the HEXARCH***
 
@@ -64,6 +66,7 @@ _might need to rethink this..._
 * **STEREO OUT** DP3T ON-ON-ON (1, both, 2) SWITCH (15)
 * **STEREO OUT** CUT-OFF MOMENTARY (L/R) (17)
 * voltage starve for 401016 (18)
+* POWER (side)
 
 ```
 VOL---STRV--PWR1--PWR2--FREQ1-FREQ2
@@ -72,3 +75,30 @@ FADE--DP3T--DPDT1-DPDT2-DPDT3-DPDT4
  |     |     |     |     |     |
 CUT1--CUT2--DPDT5-DPDT6-DPDT7-DPDT8
 ```
+
+* 1x 74HC14
+* 2x 4040
+* 2x 4051
+* 1x 7805
+* 3x 1n914
+* 1x 1n4007
+* 2x A100x pot
+* 1x B10k pot
+* 4x B1M pot
+* 2x 10k resistor
+* 2x 30k resistor
+* 2x 100 resistor
+* 1x 200n resistor
+* 1x 10n green cap
+* 2x 100n green cap
+* 1x 100n LL electrolytic cap
+* 1x 330n LL electrolytic cap
+* 2x 4.7u electrolytic cap
+* 3x 22u electrolytic cap
+* 2x SPST switch
+* 8x DPDT switch
+* 1x DP3T switch
+* 2x momentary push buttons
+* 1x 2.1mm socket
+* 3x 6.5mm socket
+* 1x 5mm LED
