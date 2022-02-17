@@ -107,4 +107,28 @@ CUT1--CUT2--DPDT5-DPDT6-DPDT7-DPDT8
 * 3x 6.5mm socket
 * 1x 5mm LED
 
-### [provisional circuit](circuit2)
+### ~~[provisional circuit](circuit2)~~
+
+---
+
+## nvm
+
+another adjustment:
+
+```
+STRV--PWR1--PWR1--FREQ--WAVE1-WAVE2
+ |     |     |     |     |     |
+VOL---OSC1--OSC2--WAVE3-WAVE4-WAVE5
+ |     |     |     |     |     |
+WAVEV-OSCV1-OSCV2-WAVE6-WAVE7-WAVE8
+```
+
+* 8-bit wave
+* 2x hex oscilators
+* 2x power oscilators + starve
+* volume, osc1/2 volume, wave volume
+* 18 knobs
+* mono out
+* power + switch + LED
+
+*???*
