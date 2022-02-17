@@ -51,3 +51,24 @@ so that is:
 which is a total of... over 40 things.  
 
 _might need to rethink this..._
+
+### MAYBE
+
+***18 easy spaces in the same casing as the HEXARCH***
+
+* 2x frequency (2x 40106) (2) 
+* 8x dual gang pots **OR** 8x DPDT switches for waveforms (10)
+* 2x POWER FUCKER (2x 40106) (12)
+* VOLUME (13)
+* **STEREO OUT** fader (14)
+* **STEREO OUT** DP3T ON-ON-ON (1, both, 2) SWITCH (15)
+* **STEREO OUT** CUT-OFF MOMENTARY (L/R) (17)
+* voltage starve for 401016 (18)
+
+```
+VOL---STRV--PWR1--PWR2--FREQ1-FREQ2
+ |     |     |     |     |     |
+FADE--DP3T--DPDT1-DPDT2-DPDT3-DPDT4
+ |     |     |     |     |     |
+CUT1--CUT2--DPDT5-DPDT6-DPDT7-DPDT8
+```
