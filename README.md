@@ -90,7 +90,7 @@ CUT1--CUT2--DPDT5-DPDT6-DPDT7-DPDT8
 * 1x 200r resistor
 * 4x 10k resistor
 * 2x 30k resistor
-* 1x 10n 50V monolythic cap
+* 2x 10n 50V monolythic cap
 * 2x 100n 50V monolythic cap
 * 1x 220n 100V green cap
 * 1x 470n 100V green cap
