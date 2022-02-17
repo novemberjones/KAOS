@@ -54,7 +54,7 @@ _might need to rethink this..._
 
 ---
 
-### MAYBE (feb 2022)
+## MAYBE (feb 2022)
 
 ***18 easy spaces in the same casing as the HEXARCH***
 
@@ -80,9 +80,9 @@ CUT1--CUT2--DPDT5-DPDT6-DPDT7-DPDT8
 * 2x 4040
 * 2x 4051
 * 3x 1n914
-* 1x 1n4007
+* 1x 1n4004
 * 1x A10k pot
-* 1x B10k pot
+* 1x B10k pot dual gang
 * 1x B100k pot
 * 4x B1M pot
 * 1x 10r resistor
@@ -92,13 +92,13 @@ CUT1--CUT2--DPDT5-DPDT6-DPDT7-DPDT8
 * 2x 30k resistor
 * 2x 10n 50V monolythic cap
 * 2x 100n 50V monolythic cap
-* 1x 220n 100V green cap
-* 1x 470n 100V green cap
+* 2x 220n 100V green cap
+* 2x 470n 100V green cap
 * 2x 4.7u 16V electrolytic cap
-* 1x 10u 16V electrolytic cap
+* 2x 10u 16V electrolytic cap
 * 2x 22u 16V electrolytic cap
-* 1x 47u 16V electrolytic cap
-* 1x 220u 16V electrolytic cap
+* 2x 47u 16V electrolytic cap
+* 2x 220u 16V electrolytic cap
 * 2x SPST switch
 * 8x DPDT switch
 * 1x DPDT switch (on-off-on)
@@ -106,3 +106,5 @@ CUT1--CUT2--DPDT5-DPDT6-DPDT7-DPDT8
 * 1x 2.1mm socket
 * 3x 6.5mm socket
 * 1x 5mm LED
+
+### [provisional circuit](circuit)
